@@ -43,8 +43,20 @@ I am a results-driven **Computer Science & Engineering** graduate with a backgro
 ---
 
 ### 📁 Featured Projects
-* **Project 1 Name** - [Live Demo](#) | [Client Code](#) | [Server Code](#)
-    * *Brief description of what the app does and tech used (e.g., MERN stack).*
+* **🌐 Live Demo:** [https://digitaltools0050.netlify.app/](https://digitaltools0050.netlify.app/)
+* **💻 GitHub Repository:** [https://github.com/HelloMizanur/digitool](https://github.com/HelloMizanur/digitool)
+
+---
+
+## 🛠️ Technology Stack
+
+This project is built using a modern frontend stack to ensure speed and a great user experience:
+
+* **Core:** React.js (Component-based architecture)
+* **Styling:** Tailwind CSS & DaisyUI (Fluid Grid system & Modern UI)
+* **Language:** JavaScript (ES6+)
+* **Feedback:** React-Toastify (Real-time notifications)
+* **Data:** JSON (Local data management)
 * **Project 2 Name** - [Live Demo](#) | [Code](#)
     * *Brief description of the problem solved.*
 
