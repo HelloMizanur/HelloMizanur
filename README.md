@@ -1,52 +1,56 @@
-# Hi there, I'm Mizanur Rahman! 👋
+# Hi, I'm Mizanur Rahman! 👋
+### Aspiring Full-Stack Web Developer | CSE Graduate
 
-I am a **CSE Graduate** and an aspiring **Full-Stack Web Developer** with a passion for building scalable, user-centric web applications. Currently, I am honing my skills in modern web technologies to transition back into the core tech industry.
-
-### 🚀 Professional Journey & Goals
-- 🎓 **B.Sc. in Computer Science & Engineering** (Class of 2021).
-- 🎨 **Web Design Specialist** – Trained at Creative IT Institute.
-- 📈 **Ex-Digital Marketing Executive** – 1 year of professional experience at **SEBPO**, managing digital operations and strategy.
-- 🛡️ **SQA Internship** – Completed an internship at **A1QA**, gaining insights into Software Quality Assurance and testing.
-- 💻 **Current Focus:** Enrolled in a rigorous Full-Stack Web Development program at **Programming Hero** (Batch of 2026).
-- 🎯 **Objective:** Looking for a challenging **Remote** or **Local Full-Stack Developer** role by the end of 2026.
-
-### 🛠️ Tech Stack & Skills
-
-**Frontend:**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-**Backend & Database:**
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-
-**Others:**
-- Python & Django (Intermediate)
-- Software Quality Assurance (SQA)
-- Digital Marketing Strategy
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-six-retrace.vercel.app/api?username=HelloMizanur&show_icons=true&theme=radical&count_private=true" alt="Mizanur's GitHub stats" width="400" />
-  <br/>
-  <img src="https://github-readme-stats-six-retrace.vercel.app/api/top-langs/?username=HelloMizanur&layout=compact&theme=radical" alt="Top Langs" width="350" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HelloMizanur&theme=radical" alt="GitHub Streak" />
-</p>
-
-### 📫 Let's Connect!
-- 💼 **LinkedIn:** [https://www.linkedin.com/in/hellomizanur/](https://www.linkedin.com/in/hellomizanur/)
-- 📧 **Email:** [mizanur.rahman0050@gmail.com](mailto:mizanur.rahman0050@gmail.com)
-- 🌐 **Portfolio:** Coming Soon...
+I am a results-driven **Computer Science & Engineering** graduate with a background in Digital Operations and Software Quality Assurance. Currently, I am deeply immersed in **Full-Stack Web Development** (MERN Stack) to build high-performance, scalable web applications.
 
 ---
-*"Continuous learning is the key to success. Building the future, one line of code at a time."*
+
+### 🛠️ My Technical Toolbox
+
+| Category | Skills |
+| :--- | :--- |
+| **Frontend** | React.js, Next.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS |
+| **Backend** | Node.js, Express.js, Python, Django (Intermediate) |
+| **Database** | MongoDB, Firebase |
+| **Tools & QA** | Git, GitHub, SQA Testing, Postman, Vercel |
+
+---
+
+### 🚀 Professional Experience & Education
+
+* 🎓 **B.Sc. in Computer Science & Engineering** (Graduated 2021)
+* 💻 **Full-Stack Web Development** | *Programming Hero (Batch 2026)*
+* 📈 **Ex-Digital Marketing Executive** | *SEBPO (1 Year)* - Specialized in digital strategy and operational management.
+* 🛡️ **SQA Intern** | *A1QA* - Gained hands-on experience in Software Quality Assurance.
+
+---
+
+### 📊 My GitHub Journey
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HelloMizanur&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="400" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HelloMizanur&layout=compact&theme=tokyonight&hide_border=true" width="350" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HelloMizanur&theme=tokyonight&hide_border=true" alt="Contribution Streak" />
+</p>
+
+---
+
+### 📁 Featured Projects
+* **Project 1 Name** - [Live Demo](#) | [Client Code](#) | [Server Code](#)
+    * *Brief description of what the app does and tech used (e.g., MERN stack).*
+* **Project 2 Name** - [Live Demo](#) | [Code](#)
+    * *Brief description of the problem solved.*
+
+---
+
+### 📫 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hellomizanur/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mizanur.rahman0050@gmail.com)
+
+---
+
+> *"Continuous learning is the key to success. Building the future, one line of code at a time."*
