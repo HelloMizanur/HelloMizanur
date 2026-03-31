@@ -34,8 +34,9 @@ I am a **CSE Graduate** and an aspiring **Full-Stack Web Developer** with a pass
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HelloMizanur&show_icons=true&theme=radical&count_private=true" alt="Mizanur's GitHub stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HelloMizanur&layout=compact&theme=radical" alt="Top Langs" width="300" />
+  <img src="https://github-readme-stats-six-retrace.vercel.app/api?username=HelloMizanur&show_icons=true&theme=radical&count_private=true" alt="Mizanur's GitHub stats" width="400" />
+  <br/>
+  <img src="https://github-readme-stats-six-retrace.vercel.app/api/top-langs/?username=HelloMizanur&layout=compact&theme=radical" alt="Top Langs" width="350" />
 </p>
 
 <p align="center">
