@@ -43,6 +43,7 @@ I am a results-driven **Computer Science & Engineering** graduate with a backgro
 ---
 
 ### 📁 Featured Projects
+##Project 1
 * **🌐 Live Demo:** [https://digitaltools0050.netlify.app/](https://digitaltools0050.netlify.app/)
 * **💻 GitHub Repository:** [https://github.com/HelloMizanur/digitool](https://github.com/HelloMizanur/digitool)
 
