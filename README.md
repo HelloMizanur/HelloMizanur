@@ -32,12 +32,19 @@ I am a **CSE Graduate** and an aspiring **Full-Stack Web Developer** with a pass
 - Digital Marketing Strategy
 
 ### 📊 GitHub Stats
-![Mizanur's GitHub stats](https://github-readme-stats.vercel.app/api?username=HelloMizanur&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HelloMizanur&layout=compact&theme=radical)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HelloMizanur&show_icons=true&theme=radical&count_private=true" alt="Mizanur's GitHub stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HelloMizanur&layout=compact&theme=radical" alt="Top Langs" width="300" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HelloMizanur&theme=radical" alt="GitHub Streak" />
+</p>
 
 ### 📫 Let's Connect!
-- 💼 **LinkedIn:** [https://www.linkedin.com/in/hellomizanur/]
-- 📧 **Email:** [mizanur.rahman0050@gmail.com]
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/hellomizanur/](https://www.linkedin.com/in/hellomizanur/)
+- 📧 **Email:** [mizanur.rahman0050@gmail.com](mailto:mizanur.rahman0050@gmail.com)
 - 🌐 **Portfolio:** Coming Soon...
 
 ---
