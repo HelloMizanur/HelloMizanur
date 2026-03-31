@@ -27,13 +27,17 @@ I am a results-driven **Computer Science & Engineering** graduate with a backgro
 
 ### 📊 My GitHub Journey
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HelloMizanur&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="400" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HelloMizanur&layout=compact&theme=tokyonight&hide_border=true" width="350" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=HelloMizanur&show_icons=true&theme=tokyonight&count_private=true" alt="Mizanur's GitHub stats" width="400" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=HelloMizanur&layout=compact&theme=tokyonight" alt="Top Langs" width="350" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HelloMizanur&theme=tokyonight&hide_border=true" alt="Contribution Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HelloMizanur&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
