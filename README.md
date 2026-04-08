@@ -82,23 +82,3 @@ I am a results-driven **Computer Science & Engineering** graduate with a strong 
 
 ---
 
-### 📊 Dynamic GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HelloMizanur&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HelloMizanur&layout=compact&theme=tokyonight" width="45%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HelloMizanur&theme=tokyonight" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HelloMizanur&theme=tokyonight" width="100%" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Available_for_Projects-brightgreen?style=for-the-badge" />
-</p>
