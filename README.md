@@ -2,81 +2,76 @@
   <img src="https://i.ibb.co.com/nZwn5rL/Gemini-Generated-Image-89tkgl89tkgl89tk.png" alt="Mizanur Rahman Banner" width="100%">
 </p>
 
-<h1 align="center">Hi, I'm Mizanur Rahman! 👋</h1>
-<p align="center">
-  <strong>Software Engineer | Full-Stack Web Developer (MERN) | CSE Graduate</strong>
-</p>
+# Hi, I'm Mizanur Rahman! 👋
+### Aspiring Full-Stack Web Developer | CSE Graduate
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/hellomizanur/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:mizanur.rahman0050@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-</p>
-
----
-
-### 📝 About Me
-
-I am a results-driven **Computer Science & Engineering** graduate with a strong foundation in **Full-Stack Web Development**. After gaining experience in Digital Operations and Software Quality Assurance (SQA), I am now focused on building high-performance, scalable web applications using the MERN stack. I love solving complex problems and turning ideas into clean, functional code.
+I am a results-driven **Computer Science & Engineering** graduate with a background in Digital Operations and Software Quality Assurance. Currently, I am deeply immersed in **Full-Stack Web Development** (MERN Stack) to build high-performance, scalable web applications.
 
 ---
 
 ### 🛠️ My Technical Toolbox
 
-| Category | Skills & Tools |
+| Category | Skills |
 | :--- | :--- |
-| **Frontend** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) |
-| **Backend** | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092e20.svg?style=flat&logo=django&logoColor=white) |
-| **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase&logoColor=white) |
-| **Tools & QA** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) |
+| **Frontend** | React.js, Next.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS |
+| **Backend** | Node.js, Express.js, Python, Django (Intermediate) |
+| **Database** | MongoDB, Firebase |
+| **Tools & QA** | Git, GitHub, SQA Testing, Postman, Vercel |
 
 ---
 
-### 🚀 Professional Journey
+### 🚀 Professional Experience & Education
 
-* 🎓 **B.Sc. in Computer Science & Engineering** | *Graduated 2021*
+* 🎓 **B.Sc. in Computer Science & Engineering** (Graduated 2021)
 * 💻 **Full-Stack Web Development** | *Programming Hero (Batch 2026)*
-* 🛡️ **SQA Intern** | *A1QA* - Focused on software reliability and automated testing.
-* 📈 **Ex-Digital Marketing Executive** | *SEBPO (1 Year)* - Specialized in digital strategy and data-driven operations.
+* 📈 **Ex-Digital Marketing Executive** | *SEBPO (1 Year)* - Specialized in digital strategy and operational management.
+* 🛡️ **SQA Intern** | *A1QA* - Gained hands-on experience in Software Quality Assurance.
+
+---
+
+### 📊 My GitHub Journey
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HelloMizanur&show_icons=true&theme=tokyonight&count_private=true" alt="Mizanur's GitHub stats" width="400" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HelloMizanur&layout=compact&theme=tokyonight" alt="Top Langs" width="350" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HelloMizanur&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 ---
 
 ### 📁 Featured Projects
-
-#### 💻 Digitool - E-commerce UI
-* **Description:** A modern gadget shop interface with dynamic filtering and a smooth user experience.
-* **Tech Stack:** React.js, Tailwind CSS, DaisyUI, React-Toastify.
-* **🌐 [Live Demo](https://digitaltools0050.netlify.app/)** | **📂 [GitHub Repo](https://github.com/HelloMizanur/digitool)**
+## Project 1
+* **🌐 Live Demo:** [https://digitaltools0050.netlify.app/](https://digitaltools0050.netlify.app/)
+* **💻 GitHub Repository:** [https://github.com/HelloMizanur/digitool](https://github.com/HelloMizanur/digitool)
 
 ---
 
-### 📊 GitHub Statistics
+## 🛠️ Technology Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HelloMizanur&show_icons=true&theme=tokyonight&count_private=true" alt="Mizanur's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HelloMizanur&layout=compact&theme=tokyonight" alt="Top Langs" width="45%" />
-</p>
+This project is built using a modern frontend stack to ensure speed and a great user experience:
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HelloMizanur&theme=tokyonight" alt="GitHub Streak" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HelloMizanur&theme=tokyonight" alt="Activity Graph" width="100%" />
-</p>
+* **Core:** React.js (Component-based architecture)
+* **Styling:** Tailwind CSS & DaisyUI (Fluid Grid system & Modern UI)
+* **Language:** JavaScript (ES6+)
+* **Feedback:** React-Toastify (Real-time notifications)
+* **Data:** JSON (Local data management)
+* **Project 2 Name** - [Live Demo](#) | [Code](#)
+    * *Brief description of the problem solved.*
 
 ---
 
 ### 📫 Let's Connect!
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/hellomizanur/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:mizanur.rahman0050@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hellomizanur/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mizanur.rahman0050@gmail.com)
 
-<p align="center">
-  <i>"Continuous learning is the key to success. Building the future, one line of code at a time."</i>
-</p>
+---
+
+> *"Continuous learning is the key to success. Building the future, one line of code at a time."*
