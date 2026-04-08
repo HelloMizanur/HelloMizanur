@@ -31,6 +31,19 @@ I am a results-driven **Computer Science & Engineering** graduate with a strong 
 
 ---
 
+### 📌 Top Projects
+
+<p align="center">
+  <a href="https://github.com/HelloMizanur/digitool">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HelloMizanur&repo=digitool&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/HelloMizanur/beautiful-react-tailwind-portfolio">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HelloMizanur&repo=beautiful-react-tailwind-portfolio&theme=tokyonight" />
+  </a>
+</p>
+
+---
+
 ### 🚀 Professional Journey
 
 * 🎓 **B.Sc. in Computer Science & Engineering** | *Graduated 2021*
@@ -40,16 +53,7 @@ I am a results-driven **Computer Science & Engineering** graduate with a strong 
 
 ---
 
-### 📁 Featured Projects
-
-#### 💻 Digitool - E-commerce UI
-* **Description:** A modern gadget shop interface with dynamic filtering and a smooth user experience.
-* **Tech Stack:** React.js, Tailwind CSS, DaisyUI, React-Toastify.
-* **🌐 [Live Demo](https://digitaltools0050.netlify.app/)** | **📂 [GitHub Repo](https://github.com/HelloMizanur/digitool)**
-
----
-
-### 📊 GitHub Statistics
+### 📊 GitHub Activity & Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HelloMizanur&show_icons=true&theme=tokyonight&count_private=true" alt="Mizanur's GitHub stats" width="48%" />
@@ -57,10 +61,25 @@ I am a results-driven **Computer Science & Engineering** graduate with a strong 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HelloMizanur&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HelloMizanur&theme=tokyonight" alt="GitHub Streak" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HelloMizanur&theme=tokyonight" alt="Activity Graph" width="100%" />
 </p>
 
 ---
+
+### 📫 Let's Connect!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/hellomizanur/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mizanur.rahman0050@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 <p align="center">
   <i>"Continuous learning is the key to success. Building the future, one line of code at a time."</i>
