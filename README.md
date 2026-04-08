@@ -31,29 +31,25 @@ I am a results-driven **Computer Science & Engineering** graduate with a strong 
 
 ---
 
-### 📌 Top Projects
-
-<p align="center">
-  <a href="https://github.com/HelloMizanur/digitool">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HelloMizanur&repo=digitool&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/HelloMizanur/beautiful-react-tailwind-portfolio">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HelloMizanur&repo=beautiful-react-tailwind-portfolio&theme=tokyonight" />
-  </a>
-</p>
-
----
-
 ### 🚀 Professional Journey
 
 * 🎓 **B.Sc. in Computer Science & Engineering** | *Graduated 2021*
-* 💻 **Full-Stack Web Development** | *Programming Hero (2026)*
+* 💻 **Full-Stack Web Development** | *Programming Hero (Batch 2026)*
 * 🛡️ **SQA Intern** | *A1QA* - Focused on software reliability and automated testing.
 * 📈 **Ex-Digital Marketing Executive** | *SEBPO (1 Year)* - Specialized in digital strategy and data-driven operations.
 
 ---
 
-### 📊 GitHub Activity & Statistics
+### 📁 Featured Projects
+
+#### 💻 Digitool - E-commerce UI
+* **Description:** A modern gadget shop interface with dynamic filtering and a smooth user experience.
+* **Tech Stack:** React.js, Tailwind CSS, DaisyUI, React-Toastify.
+* **🌐 [Live Demo](https://digitaltools0050.netlify.app/)** | **📂 [GitHub Repo](https://github.com/HelloMizanur/digitool)**
+
+---
+
+### 📊 GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HelloMizanur&show_icons=true&theme=tokyonight&count_private=true" alt="Mizanur's GitHub stats" width="48%" />
