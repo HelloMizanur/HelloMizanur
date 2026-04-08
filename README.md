@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://lh3.googleusercontent.com/d/1XlX45A7P6N1N_R5_m2l_p3g_R1_p_R1_p" alt="Mizanur Rahman Banner" width="100%">
+  <img src="https://i.ibb.co.com/nZwn5rL/Gemini-Generated-Image-89tkgl89tkgl89tk.png" alt="Mizanur Rahman Banner" width="100%">
 </p>
 
 <h1 align="center">Hi, I'm Mizanur Rahman! 👋</h1>
